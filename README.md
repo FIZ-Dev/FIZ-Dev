@@ -1,5 +1,5 @@
 # Anime & Programming ✨
-![Banner](https://www.pexels.com/photo/pagoda-in-gray-scale-shot-301614/) 
+![Banner]([https://www.pexels.com/photo/pagoda-in-gray-scale-shot-301614/](https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)) 
 
 ## 🌟 Welcome to My World 🌟
 
