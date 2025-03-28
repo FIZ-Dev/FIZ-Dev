@@ -5,6 +5,9 @@
 
 **Hi there!** 👋 Selamat Datang di akun github Fiz-Dev, akun ini hanya berisikan repositori random saya karena ini secondary account saya jadi nikmati saja heheh..
 
+## ⚠ Disclaimer ⚠
+Hanya berisikan projek random yang saya upload dan juga hasil pembelajaran saya selama ini
+
 ## 🌞 Credits
 
 Terinspirasi oleh karya seni anime dan kecintaan terhadap dunia coding.
